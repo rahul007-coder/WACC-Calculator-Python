@@ -9,9 +9,9 @@ print("\nPlease enter the following values:")
 
 equity_value = float(input("Market value of equity ($): "))
 debt_value = float(input("Market value of debt ($): "))
-cost_of_equity = float(input("Cost of equity (as decimal, e.g., 0.10 for 10%): "))
-cost_of_debt = float(input("Cost of debt (as decimal, e.g., 0.05 for 5%): "))
-tax_rate = float(input("Corporate tax rate (as decimal, e.g., 0.30 for 30%): "))
+cost_of_equity = float(input("Cost of equity (as decimal, for example: 0.10 for 10%): "))
+cost_of_debt = float(input("Cost of debt (as decimal, for example: 0.05 for 5%): "))
+tax_rate = float(input("Corporate tax rate (as decimal, for example: 0.30 for 30%): "))
 
 wacc = calculate_wacc(equity_value, debt_value, cost_of_equity, cost_of_debt, tax_rate)
 
