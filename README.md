@@ -20,11 +20,11 @@ Market value of equity ($): 50000
 
 Market value of debt ($): 40000
 
-Cost of equity (as decimal, e.g., 0.10 for 10%): .10
+Cost of equity (as decimal, for example: 0.10 for 10%): .10
 
-Cost of debt (as decimal, e.g., 0.05 for 5%): 0.05
+Cost of debt (as decimal, for example: 0.05 for 5%): 0.05
 
-Corporate tax rate (as decimal, e.g., 0.30 for 30%): .25
+Corporate tax rate (as decimal, for example: 0.30 for 30%): .25
 
 **Output Example:**
 Your WACC is: 7.22%
